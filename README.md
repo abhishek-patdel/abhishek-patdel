@@ -8,15 +8,11 @@
 # 💫 About Me : 
 - 😄 Pronouns: He/His
 - 🗣️ Language: English
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend hours listening to songs.
+- 📫 How to reach me: Email abhishek.kumar@patdelanalytics.com
 - 🧠 Learning style: Active
-- 👯 I’m currently working at Hailabs AI as a Machine Learning Engineer.
-- 🔭 Currently I'm building [SoundDub](https://github.com/abhishek12tri/SoundDub) - **Breaking the language barriers** 
-- 🌱 I’m currently learning more about Computer Vision and Natural Language.
+- 👯 I’m currently working at Patdel Analytics as a Machine Learning Engineer.
+- 🌱 I’m currently learning more about Natural Language.
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/say_more_abhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-857486152) 
 
 ## 💳 Github Profile Summary Card
 <p align="center">
