@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Abhishek</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek12tri&label=Views&color=blue&style=plastic&style=for-the-badge" alt="abhishek12tri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-patdel&label=Views&color=blue&style=plastic&style=for-the-badge" alt="abhishek-patdel" /> </p>
 
 # 💫 About Me : 
 - 😄 Pronouns: He/His
@@ -16,10 +16,10 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek12tri&theme=nord_bright"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-patdel&theme=nord_bright"/>
 </p>
 
 ##  Top languages used in repository card
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek12tri&theme=nord_bright"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-patdel&theme=nord_bright"/>
 </p>
